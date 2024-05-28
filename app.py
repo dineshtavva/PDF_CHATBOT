@@ -14,7 +14,7 @@ def llm_init():
     os.environ["OPENAI_API_KEY"] = 'xxxxxxxxx'
 
     # Initialize the LLM
-    llm = OpenAI( openai_organization="org-wAXKB5v2411zGspwvmEUTieY")
+    llm = OpenAI( openai_organization="xxxxxxxx")
 
     return llm
 
